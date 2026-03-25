@@ -1,5 +1,5 @@
 # Placement Management System
-## A Smart Way to Manage the Proogress of Students
+## A Smart Way to Manage the Progress of Students
 
 # Used Technologies
 
@@ -15,7 +15,6 @@
   2. Visual Studio Code (All Files Editing)
   3. XAMPP (Apache Server and MySQL)
   
-* Visual Studio is Used Just to Edit the Code and To Test the PHP files We need to Use Apache Server and The Source Code Local Repo Must be in the XAMPP>htdocs>www folder
 
 ## It Contains 4 Portals and 2 Homepages:
 ### Portals/Profilers
@@ -45,4 +44,3 @@ It is the Main Homepage where the Links to all the Different Logins Contain alon
 ### Drives Homepage
 This Page is for the Visitors to Look at the Current Placement Drives News and Other things.
 
-#### Clean Code Help  is Required. Anybody Who Can helps to this Project, I will be Thankful to them. Hope you Join in this Project
